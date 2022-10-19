@@ -16,17 +16,23 @@ public class Account {
         }
         else {
             Balance+=amount;
+            System.out.println("Rs. "+amount+" deposited sucessfully");
         }
     }
      public void curBalance()
      {
-         System.out.println("Cuurent Balance: "+Balance);
+         System.out.println("Current Balance: "+Balance+"\n");
      }
      public void Withdraw(int amt)
      {
          if(Balance-amt<500)
          {
-             System.out.println("Minimum Balance will not be maintained if you withdraw\n");
+             System.out.println("Minimum Balance will not be maintained if you withdraw Rs. "+amt+"\n");
+         }
+         else
+         {
+             Balance-=amt;
+             System.out.println("Rs. "+amt+" withdrawn sucessfully");
          }
      }
 }

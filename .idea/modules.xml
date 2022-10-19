@@ -3,6 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lab_progs.iml" filepath="$PROJECT_DIR$/Lab_progs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practise/practise.iml" filepath="$PROJECT_DIR$/practise/practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practise/pro77/pro77.iml" filepath="$PROJECT_DIR$/practise/pro77/pro77.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog1/prog1.iml" filepath="$PROJECT_DIR$/prog1/prog1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog10/prog10.iml" filepath="$PROJECT_DIR$/prog10/prog10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog2/prog2.iml" filepath="$PROJECT_DIR$/prog2/prog2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog3/prog3.iml" filepath="$PROJECT_DIR$/prog3/prog3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog4/prog4.iml" filepath="$PROJECT_DIR$/prog4/prog4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog5/prog5.iml" filepath="$PROJECT_DIR$/prog5/prog5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog6/prog6.iml" filepath="$PROJECT_DIR$/prog6/prog6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog7/prog7.iml" filepath="$PROJECT_DIR$/prog7/prog7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog8/prog8.iml" filepath="$PROJECT_DIR$/prog8/prog8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog9/prog9.iml" filepath="$PROJECT_DIR$/prog9/prog9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
